@@ -251,6 +251,7 @@ img {
 
 .our-team {
   padding-top: 94px;
+  padding-bottom: 94px;
 }
 
 .team-list {
@@ -262,7 +263,6 @@ img {
   flex-direction: row;
   align-items: center;
   margin-top: 50px;
-  padding-bottom: 94px;
 }
 
 .team-list-item:not(:last-child) {
